@@ -2,7 +2,7 @@
 
 ## The Kaggle Competition
 
-This [Kaggle Competition](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) was created by Clement Bisaillon.  It is a great way to work with NLP to train your model to spot real or fake news.
+This [Kaggle Competition](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) was created by Clement Bisaillon.  It is a great way to work with NLP models.
 
 ## What is in this repo?
 
@@ -38,7 +38,7 @@ Then we took a look at the differences between common words found.  The only two
 
 ![common](./assets/common.png)
 
-During our modeling phase, we wanted to use our prior knowledge from [Project 3](https://git.generalassemb.ly/jennyinc777/project_3/tree/working) to our advantage.  We knew that our tried-and-true logistic regression worked well for that dataset.  So we put that to the test.  Unsurprisingly, it was our best performer with a test score of 0.9660 when used with the `PorterStemmer()`.
+During our modeling phase, we wanted to use our prior knowledge from the [subreddit project](https://github.com/jennyinc777/subreddit_nlp) to our advantage.  We knew that our tried-and-true logistic regression worked well for that dataset.  So we put that to the test.  Unsurprisingly, it was our best performer with a test score of 0.9660 when used with the `PorterStemmer()`.
 
 ## Conclusions
 
