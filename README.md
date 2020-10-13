@@ -28,7 +28,7 @@ The data consisted of two data sets -- fake and real .csv files each with 23481 
 
 ## Overall Thoughts
 
-During our exploratory phase, we hypothesized that usually when people are lying, they tend to talk a lot more -- and therefore, write a lot more.  So we looked through the distribution of word counts.  And sure enough, the number of word counts for fake news is more than the number of word counts for real news just in the title column alone (as shown below).
+During our exploratory phase, we hypothesized that usually when people are lying, they tend to talk a lot more -- and therefore, write a lot more.  So we looked through the distribution of word counts.  And sure enough, the number of word counts for fake news is on average more than the number of word counts for real news just in the title column alone (as shown below).
 
 ![real](./assets/real.png)
 
